@@ -10,6 +10,7 @@ one:
   date: 2018-03-27
   stadium: one
   finished: false
+  group: one
 
 two:
   name: MyString
@@ -21,3 +22,4 @@ two:
   date: 2018-03-27
   stadium: two
   finished: false
+  group: two

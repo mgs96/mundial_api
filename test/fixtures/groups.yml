@@ -2,8 +2,6 @@
 
 one:
   name: MyString
-  match: one
 
 two:
   name: MyString
-  match: two

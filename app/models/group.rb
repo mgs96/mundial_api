@@ -1,3 +1,3 @@
 class Group < ApplicationRecord
-  belongs_to :match
+  has_many :matches
 end

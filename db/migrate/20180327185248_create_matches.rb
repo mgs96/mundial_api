@@ -10,6 +10,7 @@ class CreateMatches < ActiveRecord::Migration[5.1]
       t.date :date
       t.references :stadium, foreign_key: true
       t.boolean :finished
+      t.references :group, foreign_key: true
 
       t.timestamps
     end
